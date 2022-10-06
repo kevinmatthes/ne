@@ -9,7 +9,7 @@
 =Comment 	green
 =Constant 	cyan
 =Type 		red
-=Keyword 	bold 
+=Keyword 	bold
 =Intrinsic	magenta
 =Preproc        blue
 =Operator	magenta
@@ -23,10 +23,10 @@
 	"cC*"		comment		recolor=-1
 	"#"		pre		recolor=-1
 
-:pre	Preproc					
-	*		pre				
-	"\n"		reset			
-	
+:pre	Preproc
+	*		pre
+	"\n"		reset
+
 :comment Comment
 	*		comment
 	"\n"		reset
