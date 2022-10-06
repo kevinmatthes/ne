@@ -507,6 +507,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -521,6 +522,7 @@ done
 	"if"		kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	type
@@ -561,6 +563,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
@@ -610,6 +613,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -624,6 +628,7 @@ done
 	"if"		kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	kw
@@ -664,6 +669,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
