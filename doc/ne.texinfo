@@ -4510,7 +4510,7 @@ a list of common extensions. Don't get fancy with this format.
 @example
    ada: adb, ads
    asm: s, S, sx
-   c: C, c++, cc, cp, cpp, CPP, cxx, dox, h, H, h++, hh, hp,
+   c: asy, C, c++, cc, cp, cpp, CPP, cxx, dox, h, H, h++, hh, hp,
       hpp, HPP, hxx, i, ii, l, lex, tcc, y, yacc
    cobol: cbl, cob
    csh: tcsh
@@ -4540,7 +4540,7 @@ a list of common extensions. Don't get fancy with this format.
    troff: 1, 3
    verilog: v, vh, vhd, vhdl
    xml: xsd
-   yaml: yml
+   yaml: cff, yml
 @end example
 
 
