@@ -4525,7 +4525,7 @@ a list of common extensions. Don't get fancy with this format.
    perl: pl, pm
    ps: eps
    puppet: pp
-   python: py, sage
+   python: py, pyw, pyx, sage
    rexx: rex
    ruby: rb
    sh: bash, bash_login, bash_logout, bash_profile, bashrc, ksh,
