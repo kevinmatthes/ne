@@ -4510,7 +4510,8 @@ a list of common extensions. Don't get fancy with this format.
 @example
    ada: adb, ads
    asm: s, S, sx
-   c: c++, cc, cpp, cxx, h, h++, hpp, l, lex, y, yacc
+   c: C, c++, cc, cp, cpp, CPP, cxx, h, H, h++, hh, hp, hpp,
+      HPP, hxx, i, ii, l, lex, tcc, y, yacc
    cobol: cbl, cob
    csh: tcsh
    diff: patch
