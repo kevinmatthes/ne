@@ -4515,6 +4515,7 @@ a list of common extensions. Don't get fancy with this format.
    csh: tcsh
    diff: patch
    fortran: f, F, for, f90, F90
+   haskell: hs, lhs
    html: htm
    java: js
    lisp: el, lsp
