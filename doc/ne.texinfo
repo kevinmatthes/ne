@@ -4514,7 +4514,8 @@ a list of common extensions. Don't get fancy with this format.
    cobol: cbl, cob
    csh: tcsh
    diff: patch
-   fortran: f, F, for, f90, F90
+   fortran: f, F, for, FOR, f90, F90, f95, F95, f03, F03, f08,
+            F08, f18, ftn, FTN, fpp, FPP
    haskell: hs, lhs
    html: htm
    java: js
