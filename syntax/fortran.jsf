@@ -201,6 +201,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -305,6 +306,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -379,6 +381,7 @@ done
 	"dprod"		intrinsic
 	"eoshift"		intrinsic
 	"epsilon"		intrinsic
+	"execute_command_line"	intrinsic
 	"exp"		intrinsic
 	"exponent"		intrinsic
 	"false"		intrinsic
@@ -535,6 +538,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -641,6 +645,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -716,6 +721,7 @@ done
 	"dprod"		intrinsic
 	"eoshift"		intrinsic
 	"epsilon"		intrinsic
+	"execute_command_line"	intrinsic
 	"exp"		intrinsic
 	"exponent"		intrinsic
 	"false"		intrinsic
