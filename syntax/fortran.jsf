@@ -9,7 +9,7 @@
 =Comment 	green
 =Constant 	cyan
 =Type 		red
-=Keyword 	bold 
+=Keyword 	bold
 =Intrinsic	magenta
 =Preproc        blue
 =Operator	magenta
@@ -23,10 +23,10 @@
 	"cC*"		comment		recolor=-1
 	"#"		pre		recolor=-1
 
-:pre	Preproc					
-	*		pre				
-	"\n"		reset			
-	
+:pre	Preproc
+	*		pre
+	"\n"		reset
+
 :comment Comment
 	*		comment
 	"\n"		reset
@@ -174,6 +174,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -189,6 +190,7 @@ done
 	"implicit"	kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	type
@@ -201,6 +203,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -229,6 +232,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
@@ -278,6 +282,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -293,6 +298,7 @@ done
 	"implicit"	kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	kw
@@ -305,6 +311,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -333,6 +340,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
@@ -379,6 +387,7 @@ done
 	"dprod"		intrinsic
 	"eoshift"		intrinsic
 	"epsilon"		intrinsic
+	"execute_command_line"	intrinsic
 	"exp"		intrinsic
 	"exponent"		intrinsic
 	"false"		intrinsic
@@ -507,6 +516,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -521,6 +531,7 @@ done
 	"if"		kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	type
@@ -533,6 +544,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -561,6 +573,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
@@ -610,6 +623,7 @@ done
 	"endinterface"	kw
 	"endmodule"	kw
 	"endselect"	kw
+	"endsubmodule"	kw
 	"endtype"	kw
 	"endwhere"	kw
 	"entry"		kw
@@ -624,6 +638,7 @@ done
 	"if"		kw
 	"implicit"	kw
 	"in"		kw
+	"include"	kw
 	"inout"		kw
 	"inquire"	kw
 	"integer"	kw
@@ -636,6 +651,7 @@ done
 	"module"	kw
 	"namelist"	kw
 	"none"		kw
+	"non_intrinsic"	kw
 	"nullify"	kw
 	"only"		kw
 	"open"		kw
@@ -664,6 +680,7 @@ done
 	"sequence"	kw
 	"stat"		kw
 	"stop"		kw
+	"submodule"	kw
 	"subroutine"	kw
 	"target"	kw
 	"then"		kw
@@ -710,6 +727,7 @@ done
 	"dprod"		intrinsic
 	"eoshift"		intrinsic
 	"epsilon"		intrinsic
+	"execute_command_line"	intrinsic
 	"exp"		intrinsic
 	"exponent"		intrinsic
 	"false"		intrinsic
